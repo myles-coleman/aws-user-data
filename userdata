@@ -1,0 +1,23 @@
+Content-Type: multipart/mixed; boundary="===============2456218781470567902=="
+MIME-Version: 1.0
+
+--===============2456218781470567902==
+Content-Type: text/x-shellscript-per-once; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="per-once.sh"
+
+IyEvYmluL2Jhc2gKeXVtIHVwZGF0ZSAteQp5dW0gaW5zdGFsbCBnaXQgLXkKZ2l0IGNsb25lIGh0
+dHBzOi8vZ2l0aHViLmNvbS9teWxlcy1jb2xlbWFuL2F3cy11c2VyLWRhdGEuZ2l0Cnl1bSBpbnN0
+YWxsIG5vZGVqczIwIC15Cg==
+
+--===============2456218781470567902==
+Content-Type: text/x-shellscript-per-boot; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="per-boot.sh"
+
+IyEvYmluL2Jhc2gKY2QgYXdzLXVzZXItZGF0YQovdXNyL2Jpbi9ucG0tMjAgaW5zdGFsbAovdXNy
+L2Jpbi9ucG0tMjAgc3RhcnQK
+
+--===============2456218781470567902==--
